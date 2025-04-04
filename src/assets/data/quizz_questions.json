@@ -1,0 +1,61 @@
+{
+  "title": "What Type of Traveler Are You?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your ideal destination?",
+      "options": [
+        { "id": 1, "name": "A paradise beach", "alias": "A" },
+        { "id": 2, "name": "A historic city", "alias": "B" },
+        { "id": 3, "name": "A remote mountain", "alias": "C" },
+        { "id": 4, "name": "An amusement park", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What can’t you forget to pack?",
+      "options": [
+        { "id": 1, "name": "Sunscreen", "alias": "A" },
+        { "id": 2, "name": "A travel guide", "alias": "B" },
+        { "id": 3, "name": "A camping tent", "alias": "C" },
+        { "id": 4, "name": "A camera", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is your favorite mode of transportation?",
+      "options": [
+        { "id": 1, "name": "Airplane", "alias": "A" },
+        { "id": 2, "name": "Train", "alias": "B" },
+        { "id": 3, "name": "Car", "alias": "C" },
+        { "id": 4, "name": "Bicycle", "alias": "D" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What do you enjoy most during a trip?",
+      "options": [
+        { "id": 1, "name": "Relaxing and enjoying the view", "alias": "A" },
+        { "id": 2, "name": "Exploring museums and monuments", "alias": "B" },
+        { "id": 3, "name": "Hiking and adventures", "alias": "C" },
+        { "id": 4, "name": "Trying local food", "alias": "D" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is your main goal when traveling?",
+      "options": [
+        { "id": 1, "name": "Resting and recharging", "alias": "A" },
+        { "id": 2, "name": "Learning about new cultures", "alias": "B" },
+        { "id": 3, "name": "Connecting with nature", "alias": "C" },
+        { "id": 4, "name": "Having as much fun as possible", "alias": "D" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "You are a relaxed traveler! You prefer peaceful destinations and moments of rest.",
+    "B": "You are a cultural traveler! You love exploring the history and culture of places.",
+    "C": "You are an adventurous traveler! You seek connection with nature and challenges.",
+    "D": "You are a fun traveler! You enjoy exciting and unforgettable experiences."
+  }
+}
